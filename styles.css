@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background: #f9f9f9;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+#search-area {
+    margin-bottom: 20px;
+}
+
+#searchField {
+    padding: 10px;
+    width: 260px;
+    font-size: 15px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-left: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
